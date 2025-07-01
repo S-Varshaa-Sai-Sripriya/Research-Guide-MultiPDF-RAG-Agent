@@ -3,6 +3,11 @@
 Overview
 
 Research Guide is a Streamlit-based application that helps researchers interact with their PDF documents through a Retrieval-Augmented Generation (RAG) agent. Users can upload multiple PDF files, process them, and then ask questions about the content. The application uses natural language processing to provide answers based on the uploaded documents.
+
+
+![Research Guide](https://github.com/user-attachments/assets/ad7ee23b-6ec6-4065-9e80-22e6b498f185)
+
+
 Features
 
     PDF Processing: Extract text from multiple PDF documents
