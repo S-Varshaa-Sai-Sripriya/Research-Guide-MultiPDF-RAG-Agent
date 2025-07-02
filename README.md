@@ -45,3 +45,5 @@ Future Enhancements
     Option to choose between different language models
 
     Enhanced UI with document preview and management features# Research-Guide-MultiPDF-RAG-Agent
+
+> 📚 This project is a learning-based implementation
